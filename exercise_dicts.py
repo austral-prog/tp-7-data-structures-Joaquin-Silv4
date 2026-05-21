@@ -1,5 +1,5 @@
 # Ejercicios de diccionarios: sistema de inventario
-from requests import delete
+
 
 
 def create_inventory(items):
